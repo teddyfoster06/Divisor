@@ -1,0 +1,11 @@
+.state-all{
+    height: 86.4vh;
+    width: 49vw;
+    /* position: relative; */
+}
+.highlighted-text{
+    background-color: #c0d4fc;
+}
+.unhighlighted-text{
+    background-color: white;
+}
