@@ -19,7 +19,7 @@ const database = new PocketBase(databaseEndpoint);
 
 
 
-const endpoint = "http://localhost:3001";
+const endpoint = "https://x3i2jubzjv.us-east-1.awsapprunner.com";
 
 function EditorStateManager({caseSetter, runnerFunction, problemsSetter, loadingSetter1, addLine, setSocket, sessionID, user, currentLanguage}) {
     const languageRef = useRef(currentLanguage);

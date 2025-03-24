@@ -4,7 +4,7 @@ import './Main.css'
 import Topbar from './Topbar.js'
 import Cookies from "js-cookie"
 import socketIOClient from 'socket.io-client';
-const endpoint = "http://localhost:3001";
+const endpoint = "https://x3i2jubzjv.us-east-1.awsapprunner.com";
 
 //setContent("buttons")
 //setMessage("↓Enter Username↓")
